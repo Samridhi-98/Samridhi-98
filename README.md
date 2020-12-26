@@ -27,13 +27,12 @@ Here are some ideas to get you started:
 <p><em>Student at <a href="http://www.ipu.ac.in/">Guru Gobind Singh Indraprastha University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   
   
-<details open>
 <br>
-<p align = "center">
+<p align = "">
   <img src = "https://github-readme-stats.vercel.app/api?username=Samridhi-98&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samridhi-98&hide=css,java,html&theme=radical">
 </p>
-</details>
+
 
 
 
