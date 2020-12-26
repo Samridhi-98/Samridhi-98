@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <h2> Hi, I'm Samriddhi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![Visits Badge](https://badges.pufler.dev/visits/Samridhi-98/Samridhi-98)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/Samridhi-98)](https://badges.pufler.dev)
@@ -28,10 +29,12 @@ Here are some ideas to get you started:
   
   
 <br>
+<details open>
 <p align = "">
   <img src = "https://github-readme-stats.vercel.app/api?username=Samridhi-98&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samridhi-98&hide=css,java,html&theme=radical">
 </p>
+</details>  
 
 
 
