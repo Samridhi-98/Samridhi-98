@@ -31,6 +31,8 @@ Here are some ideas to get you started:
   
 <br>
 
+
+## Contact Me
 <p>
   
 [![Instagram Badge](https://img.shields.io/badge/-agrawal_samriddhi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/agrawal_samriddhi/)](https://instagram.com/agrawal_samriddhi)
@@ -41,8 +43,9 @@ Here are some ideas to get you started:
 </p>
 
 
-## ⚡ Technologies
+## Technologies
 
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
