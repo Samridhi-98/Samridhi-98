@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hi, I'm Samriddhi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Samriddhi!</h2>
+
 <!--
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 -->
@@ -27,12 +28,12 @@ Here are some ideas to get you started:
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Samridhi-98)](https://badges.pufler.dev)
 
 
-<p><em>Student at <a href="http://www.ipu.ac.in/">Guru Gobind Singh Indraprastha University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Student at <a href="http://www.ipu.ac.in/">Guru Gobind Singh Indraprastha University</a> 
   
 <br>
 
 
-## Reach me on
+## Reach me on  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <p>
   
 [![Instagram Badge](https://img.shields.io/badge/-agrawal_samriddhi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/agrawal_samriddhi/)](https://instagram.com/agrawal_samriddhi)
@@ -43,7 +44,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## Technologies
+## Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
