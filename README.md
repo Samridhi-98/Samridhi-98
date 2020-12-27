@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/Samridhi-98/Samridhi-98/blob/main/images/profile.png"/>
+<img src="https://github.com/Samridhi-98/Samridhi-98/blob/main/images/intro_part.png"/>
 
 <!--
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 -->
-
 
 [![Visits Badge](https://badges.pufler.dev/visits/Samridhi-98/Samridhi-98)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/Samridhi-98)](https://badges.pufler.dev)
@@ -29,10 +28,6 @@ Here are some ideas to get you started:
 <!--
 <p><em>Student at <a href="http://www.ipu.ac.in/">Guru Gobind Singh Indraprastha University</a> 
 -->
-
-<br>
-
-
 ## Reach me on  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <p>
   
