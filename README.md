@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br>
 
 
-## Contact Me
+## Reach me on
 <p>
   
 [![Instagram Badge](https://img.shields.io/badge/-agrawal_samriddhi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/agrawal_samriddhi/)](https://instagram.com/agrawal_samriddhi)
