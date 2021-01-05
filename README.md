@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/Samridhi-98/Samridhi-98/blob/main/images/profilenew.png"/>
+<img src="https://github.com/Samridhi-98/Samridhi-98/blob/main/images/intropic.png"/>
 
 
 <p align="center">
