@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
- 
  <!--
  <img src="https://badges.pufler.dev/visits/Samridhi-98/Samridhi-98"/>
  <img src="https://badges.pufler.dev/years/Samridhi-98"/>
