@@ -25,7 +25,6 @@ Here are some ideas to get you started:
  <img src="https://badges.pufler.dev/years/Samridhi-98"/>
  <img src="https://badges.pufler.dev/repos/Samridhi-98"/>
  <img src="https://badges.pufler.dev/commits/monthly/Samridhi-98"/>
-
 </p>
 
 <!--
