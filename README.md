@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 </p> 
 
 <p align = "center">
- <a href="https://github.com/Samridhi-98/github-readme-activity-graph"></a>
+ <img src="https://activity-graph.herokuapp.com/graph?username=Samridhi-98&theme=redical">
 </p>  
 
 
