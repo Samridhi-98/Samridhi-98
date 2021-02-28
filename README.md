@@ -22,10 +22,12 @@ Here are some ideas to get you started:
  -->
  <img src="https://badges.pufler.dev/visits/Samridhi-98/Samridhi-98"/>
  <img src="https://badges.pufler.dev/years/Samridhi-98"/>
+ <!--
+ <img src="https://badges.pufler.dev/star/Samridhi-98"/>
+-->
  <img src="https://badges.pufler.dev/repos/Samridhi-98"/>
  <img src="https://badges.pufler.dev/commits/monthly/Samridhi-98"/>
 </p>
-
 <!--
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 -->
