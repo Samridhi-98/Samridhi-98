@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github.com/Samridhi-98/Samridhi-98/blob/main/images/intropic.png"/>
-
 <p align="center">
  <!--
  <img src="https://badges.pufler.dev/visits/Samridhi-98/Samridhi-98"/>
