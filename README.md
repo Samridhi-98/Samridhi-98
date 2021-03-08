@@ -59,7 +59,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
-
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
@@ -70,21 +69,17 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
-  
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Samridhi-98&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samridhi-98&theme=radical">
- 
  <!--
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samridhi-98&hide=css,java,html&theme=radical">
 -->
 </p>
-
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Samridhi-98&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
-
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=Samridhi-98&theme=redical">
 </p>  
