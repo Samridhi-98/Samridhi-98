@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <img src="https://github.com/Samridhi-98/Samridhi-98/blob/main/images/intropic.png"/>
 <p align="center">
  <!--
@@ -24,7 +23,6 @@ Here are some ideas to get you started:
  <img src="https://badges.pufler.dev/repos/Samridhi-98"/>
  <img src="https://badges.pufler.dev/commits/monthly/Samridhi-98"/>
 </p>
-
 <!--
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 -->
