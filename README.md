@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/Samridhi-98/Samridhi-98/blob/main/images/samriddhi_minor.png" />
+<img src="https://github.com/Samridhi-98/Samridhi-98/blob/main/images/Samriddhi.png" />
 <p align="center">
  <img src="https://badges.pufler.dev/visits/Samridhi-98/Samridhi-98"/>
  <img src="https://badges.pufler.dev/years/Samridhi-98"/>
