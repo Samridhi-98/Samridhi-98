@@ -18,7 +18,6 @@ Here are some ideas to get you started:
  <img src="https://badges.pufler.dev/repos/Samridhi-98"/>
  <img src="https://badges.pufler.dev/commits/monthly/Samridhi-98"/>
 </p>
-
 <!--
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 -->
@@ -30,7 +29,6 @@ Here are some ideas to get you started:
 <!--
 <p><em>Student at <a href="http://www.ipu.ac.in/">Guru Gobind Singh Indraprastha University</a> 
 -->
-
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  
 <p align="center">
