@@ -29,10 +29,9 @@ Here are some ideas to get you started:
 <!--
 <p><em>Student at <a href="http://www.ipu.ac.in/">Guru Gobind Singh Indraprastha University</a> 
 -->
-
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
-
+ 
 <img src="https://img.shields.io/badge/-agrawal_samriddhi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/agrawal_samriddhi/" />
 <img src="https://img.shields.io/badge/-agrawalsamriddhi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agrawalsamriddhi83@gmail.com" />
 <img src="https://img.shields.io/badge/-samridhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samridhi-agrawal-1713201ab//" />
