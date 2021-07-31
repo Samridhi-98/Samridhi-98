@@ -68,7 +68,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
+
 <br>
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Samridhi-98&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samridhi-98&theme=radical">
