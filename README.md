@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
@@ -70,6 +69,7 @@ Here are some ideas to get you started:
 <h2 align="center">
   Hungry Snake <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
+
 <p align="center">
   <img src="https://github.com/Samridhi-98/Samridhi-98/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
