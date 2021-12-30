@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 <p align="center">
+ 
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
@@ -59,6 +60,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
+ 
 </p>
 
 <p align="center">
