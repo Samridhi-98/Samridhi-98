@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/Samridhi-98/Samridhi-98/blob/main/images/Samriddhi.png" />
 
-<p align="center">
+<!-- <p align="center">
  <img src="https://badges.pufler.dev/visits/Samridhi-98/Samridhi-98"/>
  <img src="https://badges.pufler.dev/years/Samridhi-98"/>
  <img src="https://badges.pufler.dev/repos/Samridhi-98"/> 
  <img src="https://badges.pufler.dev/commits/monthly/Samridhi-98"/>
-</p>
+</p> -->
 
 
 <!--
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  
-<img src="https://img.shields.io/badge/-agrawal_samriddhi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/agrawal_samriddhi98/" />
+<img src="https://img.shields.io/badge/-agrawal_samriddhi98-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/agrawal_samriddhi98/" />
 <img src="https://img.shields.io/badge/-agrawalsamriddhi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agrawalsamriddhi83@gmail.com" />
 <img src="https://img.shields.io/badge/-samridhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samridhi-agrawal-1713201ab//" />
 <img src="https://img.shields.io/badge/-Samriddhi981-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Samriddhi981" />
